@@ -1,0 +1,7 @@
+
+string = input("Enter a string: ")
+if contains_uppercase(string):
+    print("The string contains at least one uppercase letter.")
+else:
+    print("The string does not contain any uppercase letters.")
+
